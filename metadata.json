@@ -1,0 +1,5 @@
+{
+  "name": "Wand Magically Casted",
+  "description": "A web-based controller for a Harry Potter BLE-enabled toy wand. It allows connecting to the wand, receiving spell data, sending commands for VFX like lights and vibrations, and includes a tool for discovering command opcodes.",
+  "requestFramePermissions": []
+}
